@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 
-const API_KEY = '3c6aa129d7ef1458478bb217cc1e9a0b';
+const API_KEY = '99eb9fd1';
 const OMDB_API_URL = `https://www.omdbapi.com/?apikey=${API_KEY}&s=`;
 
 const MovieSearch = () => {
